@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-70 -40 540 340" role="img" aria-label="Illustration godet de curage">
+<ellipse cx="200" cy="222" rx="130" ry="8" fill="#000" opacity=".12"/>
+<path d="M90 70 Q200 40 310 70 L300 190 Q200 214 100 190z" fill="#F2CC00"/>
+<path d="M100 150 Q200 176 300 150 L300 190 Q200 214 100 190z" fill="#C9A800"/>
+<rect x="150" y="44" width="22" height="40" rx="4" fill="#2A2E33"/><rect x="228" y="44" width="22" height="40" rx="4" fill="#2A2E33"/>
+<circle cx="161" cy="56" r="6" fill="#B9C0C8"/><circle cx="239" cy="56" r="6" fill="#B9C0C8"/>
+<path d="M96 188 Q200 214 304 188 l2 10 Q200 226 94 198z" fill="#2A2E33"/>
+<path d="M120 96 Q200 78 280 96" stroke="#C9A800" stroke-width="6" fill="none"/>
+</svg>

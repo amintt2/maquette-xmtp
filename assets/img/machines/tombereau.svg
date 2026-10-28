@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" role="img" aria-label="Illustration tombereau articulé">
+<ellipse cx="200" cy="230" rx="175" ry="9" fill="#000" opacity=".12"/>
+<!-- benne -->
+<path d="M150 82 L364 70 L352 160 L166 160z" fill="#F2CC00"/>
+<path d="M156 130 L358 124 L352 160 L166 160z" fill="#C9A800"/>
+<path d="M190 92 v56 M240 89 v59 M290 86 v62" stroke="#C9A800" stroke-width="5"/>
+<!-- châssis -->
+<rect x="140" y="160" width="230" height="16" rx="4" fill="#2A2E33"/>
+<!-- tracteur -->
+<path d="M30 118 q0-8 8-8 h56 v66 H38 q-8 0-8-8z" fill="#F2CC00"/>
+<path d="M30 150 h64 v26 H38 q-8 0-8-8z" fill="#C9A800"/>
+<path d="M58 110 V58 q0-8 8-8 h38 q8 0 9 8 l5 52z" fill="#F2CC00"/>
+<path d="M66 104 V64 q0-4 4-4 h30 q4 0 5 4 l4 40z" fill="#2C3E4F"/>
+<path d="M72 64 h9 l-5 40 h-4z" fill="#fff" opacity=".18"/>
+<path d="M94 128 h56 v40 H94z" fill="#2A2E33"/>
+<circle cx="122" cy="150" r="9" fill="#6B727B"/>
+<!-- roues -->
+<g fill="#2A2E33"><circle cx="70" cy="194" r="30"/><circle cx="228" cy="194" r="30"/><circle cx="310" cy="194" r="30"/></g>
+<g fill="#C9A800"><circle cx="70" cy="194" r="16"/><circle cx="228" cy="194" r="16"/><circle cx="310" cy="194" r="16"/></g>
+<g fill="#2A2E33"><circle cx="70" cy="194" r="6"/><circle cx="228" cy="194" r="6"/><circle cx="310" cy="194" r="6"/></g>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" role="img" aria-label="Illustration chargeuse sur pneus">
+<ellipse cx="200" cy="228" rx="160" ry="9" fill="#000" opacity=".12"/>
+<!-- châssis arrière -->
+<path d="M52 128 q0-10 10-10 h104 v62 H62 q-10 0-10-10z" fill="#F2CC00"/>
+<path d="M52 158 h114 v22 H62 q-10 0-10-10z" fill="#C9A800"/>
+<g fill="#2A2E33" opacity=".5"><rect x="62" y="128" width="44" height="4" rx="2"/><rect x="62" y="136" width="44" height="4" rx="2"/><rect x="62" y="144" width="44" height="4" rx="2"/></g>
+<!-- cabine -->
+<path d="M120 118 V64 q0-8 8-8 h40 q8 0 9 8 l7 54z" fill="#F2CC00"/>
+<path d="M128 112 V70 q0-4 4-4 h32 q4 0 5 4 l5 42z" fill="#2C3E4F"/>
+<path d="M134 70 h10 l-6 42 h-4z" fill="#fff" opacity=".18"/>
+<!-- châssis avant -->
+<path d="M166 132 h72 q10 0 10 10 v38 h-82z" fill="#F2CC00"/>
+<path d="M166 162 h82 v18 h-82z" fill="#C9A800"/>
+<!-- bras -->
+<path d="M200 134 L214 120 L322 150 L316 168 L206 150z" fill="#F2CC00"/>
+<path d="M206 150 L316 168 L320 158 L210 140z" fill="#C9A800"/>
+<path d="M226 150 L300 128" stroke="#2A2E33" stroke-width="7" stroke-linecap="round"/>
+<!-- godet -->
+<path d="M306 118 Q336 112 356 124 L362 196 L310 196 Q302 170 306 118z" fill="#2A2E33"/>
+<path d="M314 124 Q336 120 350 130 L354 188 L318 188 Q312 166 314 124z" fill="#3B4047"/>
+<rect x="306" y="194" width="62" height="6" rx="2" fill="#2A2E33"/>
+<!-- roues -->
+<g><circle cx="102" cy="190" r="36" fill="#2A2E33"/><circle cx="102" cy="190" r="20" fill="#C9A800"/><circle cx="102" cy="190" r="8" fill="#2A2E33"/></g>
+<g><circle cx="236" cy="190" r="36" fill="#2A2E33"/><circle cx="236" cy="190" r="20" fill="#C9A800"/><circle cx="236" cy="190" r="8" fill="#2A2E33"/></g>
+</svg>

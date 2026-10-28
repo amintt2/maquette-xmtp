@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" role="img" aria-label="Illustration pelle sur chenilles">
+<ellipse cx="190" cy="226" rx="150" ry="9" fill="#000" opacity=".12"/>
+<!-- chenille -->
+<rect x="62" y="178" width="196" height="44" rx="22" fill="#2A2E33"/>
+<rect x="72" y="186" width="176" height="28" rx="14" fill="#3B4047"/>
+<g fill="#6B727B"><circle cx="86" cy="200" r="10"/><circle cx="234" cy="200" r="10"/><circle cx="122" cy="204" r="6"/><circle cx="148" cy="204" r="6"/><circle cx="174" cy="204" r="6"/><circle cx="200" cy="204" r="6"/></g>
+<rect x="120" y="166" width="80" height="14" fill="#2A2E33"/>
+<!-- tourelle -->
+<path d="M58 132 q0-14 14-14 h150 v48 H72 q-14 0-14-14z" fill="#F2CC00"/>
+<path d="M58 152 h164 v14 H72 q-14 0-14-14z" fill="#C9A800"/>
+<rect x="66" y="126" width="56" height="4" rx="2" fill="#2A2E33" opacity=".5"/>
+<rect x="66" y="134" width="56" height="4" rx="2" fill="#2A2E33" opacity=".5"/>
+<!-- cabine -->
+<path d="M150 118 V70 q0-8 8-8 h34 q8 0 10 8 l12 48z" fill="#F2CC00"/>
+<path d="M158 112 V76 q0-4 4-4 h28 q5 0 6 4 l9 36z" fill="#2C3E4F"/>
+<path d="M162 76 h10 l-6 36 h-4z" fill="#fff" opacity=".18"/>
+<!-- flèche -->
+<path d="M206 140 L214 116 L292 50 Q300 44 308 50 L316 60 L232 146z" fill="#F2CC00"/>
+<path d="M214 140 L300 62 L316 60 L232 146z" fill="#C9A800"/>
+<!-- vérin flèche -->
+<path d="M214 128 L272 78" stroke="#2A2E33" stroke-width="7" stroke-linecap="round"/>
+<path d="M214 128 L246 100" stroke="#B9C0C8" stroke-width="4" stroke-linecap="round"/>
+<!-- balancier -->
+<path d="M298 54 L314 50 L352 146 L338 152z" fill="#F2CC00"/>
+<path d="M310 54 L314 50 L352 146 L344 150z" fill="#C9A800"/>
+<path d="M300 40 L330 112" stroke="#2A2E33" stroke-width="6" stroke-linecap="round"/>
+<!-- godet -->
+<path d="M332 146 Q358 136 370 150 L372 186 Q352 196 330 184 Q338 170 332 146z" fill="#2A2E33"/>
+<path d="M330 184 l-6 6 l8 1 M340 188 l-4 8 l8-2 M352 190 l-2 8 l7-4" stroke="#2A2E33" stroke-width="4" stroke-linejoin="round" fill="#2A2E33"/>
+<circle cx="345" cy="149" r="4" fill="#B9C0C8"/><circle cx="306" cy="55" r="5" fill="#2A2E33"/><circle cx="222" cy="140" r="5" fill="#2A2E33"/>
+</svg>

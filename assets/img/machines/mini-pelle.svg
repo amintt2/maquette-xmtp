@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" role="img" aria-label="Illustration mini-pelle">
+<ellipse cx="200" cy="226" rx="140" ry="9" fill="#000" opacity=".12"/>
+<!-- lame -->
+<path d="M84 186 h12 v36 h-22 q2-20 10-36z" fill="#C9A800"/>
+<rect x="94" y="196" width="22" height="6" fill="#2A2E33"/>
+<!-- chenille -->
+<rect x="110" y="186" width="140" height="36" rx="18" fill="#2A2E33"/>
+<rect x="118" y="193" width="124" height="22" rx="11" fill="#3B4047"/>
+<g fill="#6B727B"><circle cx="130" cy="204" r="8"/><circle cx="230" cy="204" r="8"/><circle cx="160" cy="207" r="5"/><circle cx="180" cy="207" r="5"/><circle cx="200" cy="207" r="5"/></g>
+<rect x="150" y="176" width="60" height="12" fill="#2A2E33"/>
+<!-- tourelle -->
+<path d="M120 150 q0-12 12-12 h96 q12 0 12 12 v28 H120z" fill="#F2CC00"/>
+<path d="M120 166 h120 v12 H120z" fill="#C9A800"/>
+<!-- canopy -->
+<path d="M136 140 V78 h6 v62z M206 140 V78 h6 v62z" fill="#2A2E33"/>
+<path d="M130 72 h88 q6 0 6 6 v4 h-100 v-4 q0-6 6-6z" fill="#2A2E33"/>
+<rect x="150" y="116" width="40" height="22" rx="6" fill="#3B4047"/>
+<rect x="160" y="96" width="18" height="24" rx="4" fill="#3B4047"/>
+<!-- flèche -->
+<path d="M232 154 L240 136 L292 84 Q300 78 306 86 L310 94 L252 158z" fill="#F2CC00"/>
+<path d="M246 156 L302 98 L310 94 L252 158z" fill="#C9A800"/>
+<path d="M240 146 L280 106" stroke="#2A2E33" stroke-width="6" stroke-linecap="round"/>
+<!-- balancier -->
+<path d="M296 88 L308 84 L334 160 L322 164z" fill="#F2CC00"/>
+<path d="M298 74 L320 128" stroke="#2A2E33" stroke-width="5" stroke-linecap="round"/>
+<!-- godet -->
+<path d="M318 160 Q338 152 346 162 L348 190 Q332 198 316 190 Q322 178 318 160z" fill="#2A2E33"/>
+<circle cx="328" cy="162" r="3.5" fill="#B9C0C8"/><circle cx="302" cy="88" r="4" fill="#2A2E33"/>
+</svg>
